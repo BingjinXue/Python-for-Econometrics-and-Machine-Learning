@@ -1,9 +1,5 @@
-# Econometrics Using Python
+# Python for Econometrics and Machine Learning
 
-This repository hosts sample course materials for Econometrics using Python.
-
+This repository hosts course materials for ECON898/720 Machine Learning for Economics
 Author: Bingjin Xue
-
-Affiliation: Lehigh University Department of Economics
-
 Click the .ipynb file to view the notebook for specific topics.
